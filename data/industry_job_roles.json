@@ -1,0 +1,14 @@
+{
+  "Data": [
+    {"title": "Data Engineer", "keywords": ["snowflake", "airflow", "sql", "python", "etl", "azure"]},
+    {"title": "Data Analyst", "keywords": ["sql", "excel", "powerbi", "data", "analytics"]},
+    {"title": "ML Engineer", "keywords": ["python", "ml", "sklearn", "tensorflow", "numpy", "pandas"]}
+  ],
+  "Software": [
+    {"title": "Backend Developer", "keywords": ["java", "spring", "sql", "rest", "microservices"]},
+    {"title": "Frontend Developer", "keywords": ["javascript", "react", "css", "html", "typescript"]}
+  ],
+  "Marketing": [
+    {"title": "Digital Marketer", "keywords": ["seo", "google analytics", "content", "ads", "email marketing"]}
+  ]
+}

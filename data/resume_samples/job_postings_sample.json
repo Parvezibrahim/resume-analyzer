@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Engineer",
+    "keywords": ["snowflake", "airflow", "sql", "python", "etl", "azure"]
+  },
+  {
+    "title": "Data Analyst",
+    "keywords": ["sql", "excel", "powerbi", "data", "analytics"]
+  },
+  {
+    "title": "ML Engineer",
+    "keywords": ["python", "ml", "sklearn", "tensorflow", "numpy", "pandas"]
+  }
+]

@@ -1,0 +1,6 @@
+apache-airflow==2.7.0
+PyMuPDF
+scikit-learn
+streamlit
+snowflake-connector-python
+python-dotenv
