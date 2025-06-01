@@ -4,3 +4,4 @@ scikit-learn
 streamlit
 snowflake-connector-python
 python-dotenv
+matplotlib
