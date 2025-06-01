@@ -2,7 +2,7 @@ import snowflake.connector
 from src.config import SNOWFLAKE_CONFIG
 import uuid
 import datetime
-from config import SNOWFLAKE_CONFIG
+from src.config import SNOWFLAKE_CONFIG
 
 def save_resume_analysis(user_email, industry, job_role, score, matched_keywords, missing_keywords):
     conn = snowflake.connector.connect(
