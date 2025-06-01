@@ -19,3 +19,5 @@ Thumbs.db
 __pycache__/
 .streamlit/secrets.toml
 config/snowflake_config.py
+config/snowflake_config.py
+config/snowflake_config.py
