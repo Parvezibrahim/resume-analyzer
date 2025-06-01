@@ -1,6 +1,6 @@
 import pandas as pd
 import snowflake.connector
-from config import SNOWFLAKE_CONFIG
+from src.config import SNOWFLAKE_CONFIG
 from src.config import SNOWFLAKE_CONFIG  # ✅ use the dictionary
 
 def fetch_saved_analytics():
